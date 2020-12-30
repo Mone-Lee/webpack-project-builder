@@ -3,6 +3,10 @@
   "version": "1.0.6",
   "description": "基本webpack构建项目配置",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mone-Lee/webpack-project-builder.git"
+  },
   "scripts": {
     "test": "istanbul cover ./node_modules/.bin/_mocha",
     "eslint": "eslint ./lib --fix"
